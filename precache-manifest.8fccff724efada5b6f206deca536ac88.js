@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "002702d00b7501a7b369",
-    "url": "/dorinUI/static/js/main.002702d0.chunk.js"
+    "revision": "e77d5858b099376b7200",
+    "url": "/dorinUI/static/js/main.e77d5858.chunk.js"
   },
   {
     "revision": "dc77a65fb024aa5f5e45",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/dorinUI/static/js/runtime~main.a3dbc250.js"
   },
   {
-    "revision": "9dfaa3a289d8e425a95a6922d0749020",
+    "revision": "d5a7a3873e15e853f133b372d508cb7a",
     "url": "/dorinUI/index.html"
   }
 ];
