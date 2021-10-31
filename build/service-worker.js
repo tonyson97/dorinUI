@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tonyson97/dorinUI/precache-manifest.ad3de7dfa90ca4c173905fb26f28bc7d.js"
+  "/dorinUI/precache-manifest.8fccff724efada5b6f206deca536ac88.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tonyson97/dorinUI/index.html", {
+workbox.routing.registerNavigationRoute("/dorinUI/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
