@@ -6,7 +6,7 @@ class Navbar extends React.Component {
   	return (
         <nav className="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-dark">
             <div className="container">
-                <a className="navbar-brand logo text-uppercase" href="dorinUI/home-one">
+                <a className="navbar-brand logo text-uppercase" href="/home-one">
                     VSTECH
                 </a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
