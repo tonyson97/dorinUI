@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dorinUI/precache-manifest.7eb4cb9a948239d787186f943d3492d2.js"
+  "/dorinUI/precache-manifest.999db6373c579a87d4d198e0197bdb54.js"
 );
 
 workbox.clientsClaim();
