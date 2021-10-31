@@ -1,11 +1,11 @@
 {
-  "main.js": "/tonyson97/dorinUI/static/js/main.0929163d.chunk.js",
-  "main.js.map": "/tonyson97/dorinUI/static/js/main.0929163d.chunk.js.map",
-  "static/js/1.dc77a65f.chunk.js": "/tonyson97/dorinUI/static/js/1.dc77a65f.chunk.js",
-  "static/js/1.dc77a65f.chunk.js.map": "/tonyson97/dorinUI/static/js/1.dc77a65f.chunk.js.map",
-  "runtime~main.js": "/tonyson97/dorinUI/static/js/runtime~main.74850460.js",
-  "runtime~main.js.map": "/tonyson97/dorinUI/static/js/runtime~main.74850460.js.map",
-  "index.html": "/tonyson97/dorinUI/index.html",
-  "precache-manifest.ad3de7dfa90ca4c173905fb26f28bc7d.js": "/tonyson97/dorinUI/precache-manifest.ad3de7dfa90ca4c173905fb26f28bc7d.js",
-  "service-worker.js": "/tonyson97/dorinUI/service-worker.js"
+  "main.js": "/dorinUI/static/js/main.e77d5858.chunk.js",
+  "main.js.map": "/dorinUI/static/js/main.e77d5858.chunk.js.map",
+  "static/js/1.dc77a65f.chunk.js": "/dorinUI/static/js/1.dc77a65f.chunk.js",
+  "static/js/1.dc77a65f.chunk.js.map": "/dorinUI/static/js/1.dc77a65f.chunk.js.map",
+  "runtime~main.js": "/dorinUI/static/js/runtime~main.a3dbc250.js",
+  "runtime~main.js.map": "/dorinUI/static/js/runtime~main.a3dbc250.js.map",
+  "index.html": "/dorinUI/index.html",
+  "precache-manifest.8fccff724efada5b6f206deca536ac88.js": "/dorinUI/precache-manifest.8fccff724efada5b6f206deca536ac88.js",
+  "service-worker.js": "/dorinUI/service-worker.js"
 }
